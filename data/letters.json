@@ -1,0 +1,98 @@
+[
+  {
+    "id": "carta_nueva_oportunidad",
+    "title": "Nuestra Nueva Oportunidad",
+    "category": "Nueva Oportunidad",
+    "date": "06 de noviembre de 2026 · 6:18:35 PM",
+    "content": "Mi Principessa hermosa:\n\nAquel viernes 6 de noviembre a las 6:18 PM, cuando te pedí volver a ser mi novia, fue el momento en que entendí que nuestro amor es real y vale cada esfuerzo. No estamos aquí para repetir errores ni tropiezos del pasado; estamos aquí para construir algo nuevo, lleno de paciencia, ternura y paz.\n\nGracias por confiar en mí y por permitirme ser tu novio y tu Rata Aspirable. Prometo cuidar tu corazón todos los días.\n\nCon todo mi amor,\nTu Sol y Rata Aspirable ❤️",
+    "isRead": false,
+    "isFavorite": true,
+    "isLocked": false
+  },
+  {
+    "id": "carta_dia_pesado",
+    "title": "Para cuando tengas un día pesado",
+    "category": "Para cuando me extrañes",
+    "date": "Diciembre de 2026",
+    "content": "Mi niña linda:\n\nSi estás leyendo esto es porque el día fue largo o cansado. Quiero que respires profundo, cierres los ojos un momento y recuerdes que en Ica hay alguien que piensa en ti, que te admira profundamente por lo fuerte y trabajadora que eres, y que daría lo que fuera por darte un abrazo apretado ahora mismo.\n\nTodo va a estar bien, Principessa. Descansa tranquila hoy. Mañana sale el sol otra vez para nosotros.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": false
+  },
+  {
+    "id": "carta_luna_mora",
+    "title": "Por qué eres mi Luna y mi Frambuesa",
+    "category": "Promesa",
+    "date": "Diciembre de 2026",
+    "content": "Mio Principessa:\n\nTe digo Luna porque iluminas mis noches más oscuras con tu calma. Te digo Frambuesa y Mora porque tienes esa dulzura única que alegra cualquier instante simple. Y te digo Principessa porque para mí eres la mujer más hermosa y valiosa de este mundo.\n\nGracias por ser mi refugio y por permitirme ser el tuyo.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": false
+  },
+  {
+    "id": "carta_diciembre_juntos",
+    "title": "Nuestra Primera Navidad en Esta Etapa",
+    "category": "Noche de Diciembre",
+    "date": "24 de diciembre de 2026",
+    "content": "Amor de mi vida:\n\nCaminar juntos este mes de diciembre, encendiendo cada ventana de nuestro refugio, ha sido el regalo más lindo. No necesito nada material: mi mayor fortuna es tenerte a mi lado, ver tus ojos brillar y saber que elegimos querernos de verdad.\n\nFeliz Navidad, mi Blanquita hermosa.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": false
+  },
+  {
+    "id": "carta_secreto_rata",
+    "title": "El Secreto de la Rata Aspirable",
+    "category": "Cómplice",
+    "date": "Diciembre de 2026",
+    "content": "Mi Principessa linda:\n\nCada vez que me llamas 'Rata Aspirable' no puedo evitar sonreír. Me encanta tener esa complicidad tonta y única contigo que nadie más entiende. Significa que podemos ser nosotros mismos, sin poses, jugando como niños y cuidándonos como grandes.\n\nAquí tienes a tu Rata para siempre, lista para cuidarte y hacerte reír en tus días grises.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": true,
+    "riddleQuestion": "¿Cuál es el apodo cómplice favorito con el que llamas a Elvis cuando se pone terco?",
+    "riddleHint": "Es un roedor gracioso que aspira cosas...",
+    "riddleOptions": ["Rata Aspirable", "Tigre Dormilón", "Gatito Terco", "Pajarito Cantador"],
+    "riddleCorrectIndex": 0
+  },
+  {
+    "id": "carta_sol_sostenido",
+    "title": "Nuestra Melodía en Sol# Mayor",
+    "category": "Música",
+    "date": "Diciembre de 2026",
+    "content": "Para mi musa:\n\nDicen que en la música cada acorde tiene una emoción oculta. El Sol# mayor (G# major) tiene un brillo cálido, nostálgico pero lleno de esperanza. Por eso elegí esa escala para nuestra primera canción acústica: porque representa exactamente la paz que sentí cuando volviste a mi vida.\n\nCada nota de mi guitarra lleva tu nombre grabado.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": true,
+    "riddleQuestion": "¿En qué escala musical te compuso Elvis esa canción acústica especial que tanto te gusta?",
+    "riddleHint": "G# major...",
+    "riddleOptions": ["Do menor", "Sol# mayor (G# major)", "Re mayor", "La menor"],
+    "riddleCorrectIndex": 1
+  },
+  {
+    "id": "carta_pasta_sopitas",
+    "title": "Tardes de Pasta y Sopitas Caseras",
+    "category": "Cariño",
+    "date": "Diciembre de 2026",
+    "content": "Mi niña hermosa:\n\nLos mejores momentos que imagino a tu lado no son en lugares caros ni ruidosos; son en una cocina pequeña, con el vapor de una pasta calientita o una sopa reconfortante, sirviéndote un plato hondo y viéndote comer con esa sonrisa tierna.\n\nCuidarte en lo cotidiano es mi forma favorita de amarte.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": true,
+    "riddleQuestion": "¿Qué comida ligera y reconfortante es nuestra favorita para consentirnos en casa?",
+    "riddleHint": "Vapor calientito, dos platos y hecha con amor...",
+    "riddleOptions": ["Sushi frío", "Pasta calientita o sopa reconfortante", "Hamburguesa doble", "Papas picantes"],
+    "riddleCorrectIndex": 1
+  },
+  {
+    "id": "carta_27_diciembre",
+    "title": "27 de Diciembre: Nuestro Pacto Infinito",
+    "category": "Aniversario",
+    "date": "27 de diciembre de 2026",
+    "content": "Mio Principessa:\n\nEl número 27 siempre será sagrado en nuestro calendario. Dos días después de Navidad, cumplimos un mes más de haber decidido escribir esta historia con madurez y honestidad.\n\nNo te prometo una vida sin problemas, pero te prometo que nunca más estarás sola para enfrentarlos. Te amo con todo lo que soy.",
+    "isRead": false,
+    "isFavorite": false,
+    "isLocked": true,
+    "riddleQuestion": "¿Qué número de cada mes simboliza el día especial de nuestro aniversario?",
+    "riddleHint": "Dos días después de Navidad...",
+    "riddleOptions": ["El 14", "El 27 de cada mes", "El 31", "El 6"],
+    "riddleCorrectIndex": 1
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "tarde_pelis",
+    "day": 3,
+    "title": "Tarde de Películas, Manta y Canchita",
+    "description": "Tú eliges la película o serie completa sin derecho a reclamos de Elvis, con canchita casera recién hecha y manta abrigadora.",
+    "icon": "🎬",
+    "note": "Válido para maratonear lo que a ti te guste en paz.",
+    "mysteryHint": "Una pantalla, manta suave, palomitas calientitas y tú tienes el control remoto absoluto."
+  },
+  {
+    "id": "serenata_acustica",
+    "day": 5,
+    "title": "Serenata Acústica en Sol# Mayor",
+    "description": "Una sesión privada donde Elvis toca su guitarra acústica para ti, cantando o improvisando melodías para que te relajes.",
+    "icon": "🎸",
+    "note": "Para cuando quieras cerrar los ojos y escuchar música hecha con el alma solo para ti.",
+    "mysteryHint": "Seis cuerdas de madera, una melodía en Sol# y una canción dedicada solo a Principessa."
+  },
+  {
+    "id": "abrazo_recarga",
+    "day": 7,
+    "title": "Abrazo de Recarga de 5 Minutos",
+    "description": "Un abrazo fuerte y apretado de 5 minutos en completo silencio, sin soltarte, hasta que sientas que todo tu cuerpo se calma.",
+    "icon": "🫂",
+    "note": "Infalible para días pesados o momentos en que necesitas sentirte segura.",
+    "mysteryHint": "Cinco minutos donde el mundo se detiene y solo sientes mi corazón latiendo junto al tuyo."
+  },
+  {
+    "id": "masaje_antietres",
+    "day": 9,
+    "title": "Masaje Relajante de Hombros y Cuello",
+    "description": "15 a 20 minutos de masaje suave con atención 100% en ti, quitándote la tensión del día sin tocar el celular ni distraerse.",
+    "icon": "💆‍♀️",
+    "note": "Para desconectar del mundo exterior y dejarte consentir.",
+    "mysteryHint": "Unas manos dedicadas a quitarte todo el estrés acumulado en tus hombros y cuello."
+  },
+  {
+    "id": "caminata_auricular",
+    "day": 11,
+    "title": "Paseo Nocturno con Auriculares Compartidos",
+    "description": "Caminata tranquila compartiendo un audífono cada uno, escuchando nuestras canciones favoritas mientras vemos las luces de la ciudad.",
+    "icon": "🎧",
+    "note": "Para perdernos un ratito juntos en nuestra propia burbuja.",
+    "mysteryHint": "Un solo par de auriculares: uno para ti, uno para mí, y nuestras canciones sonando de noche."
+  },
+  {
+    "id": "pasta_casera",
+    "day": 14,
+    "title": "Cena de Pasta Casera Calientita",
+    "description": "Un plato de pasta o sopita reconfortante preparada despacio por Elvis, servida calientita para ti sin que laves un solo plato.",
+    "icon": "🍝",
+    "note": "Válido cuando llegues con hambre y quieras comer rico y casero.",
+    "mysteryHint": "Vapor calientito, una receta hecha con paciencia y cero platos por lavar para ti."
+  },
+  {
+    "id": "dia_sin_celular",
+    "day": 16,
+    "title": "Tarde de Atención 100% Presente",
+    "description": "Una tarde completa donde Elvis pone su celular en modo avión para estar presente contigo en cuerpo y alma, conversando y riendo.",
+    "icon": "📵",
+    "note": "Porque tu tiempo y tu compañía valen más que cualquier notificación.",
+    "mysteryHint": "Modo avión activado: una tarde completa donde nada en el mundo me distrae de ti."
+  },
+  {
+    "id": "flor_carta",
+    "day": 18,
+    "title": "Carta con Perfume + Flor de Papel Amarilla",
+    "description": "Una carta física escrita a mano impregnada con el perfume que te gusta, acompañada de una flor de papel amarilla doblada a mano.",
+    "icon": "🌼",
+    "note": "Un pedacito tangible de cariño para guardar en tu cajita de recuerdos.",
+    "mysteryHint": "Un sobre con olor a mi perfume y un pétalo amarillo hecho a mano con paciencia."
+  },
+  {
+    "id": "comodin_antojo",
+    "day": 21,
+    "title": "Comodín de Antojo Dulce",
+    "description": "Tú decides qué postrecito, café o antojito se te antoja esa noche en Ica y Elvis va a conseguírtelo.",
+    "icon": "🧁",
+    "note": "Canjeable en cualquier momento en que la Principessa necesite un dulce apapacho.",
+    "mysteryHint": "Tú eliges el postre o capricho de la noche y yo me encargo de que llegue a tus manos."
+  },
+  {
+    "id": "nochebuena_promesa",
+    "day": 24,
+    "title": "Pacto de Nochebuena: Amor Sano y Consciente",
+    "description": "La promesa solemne de tu Rata Aspirable de cuidar esta nueva oportunidad con madurez, ternura, honestidad y lealtad eterna.",
+    "icon": "💍",
+    "note": "Nuestro mejor regalo de Navidad: elegirnos todos los días.",
+    "mysteryHint": "La promesa más bonita y sincera bajo las luces de nuestra primera Navidad juntos."
+  }
+]
