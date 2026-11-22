@@ -1,0 +1,10 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "releaseDate": "22 de noviembre de 2026",
+  "title": "¡Nueva versión disponible para ti, Principessa! 🏠✨",
+  "message": "Tu Rata Aspirable ha preparado nuevos detalles, canciones y cartas especiales para ti. Actualiza para disfrutar de todo.",
+  "releaseNotes": "• Galería de Cartas con acertijos interactivos y sello de lacre E ♥ F\n• Nuestro Cuaderno compartido estilo Notion con listas To-Do\n• Nuevo reproductor de música con carátulas en alta resolución\n• Modo espejo de sincronización en tiempo real con GitHub\n• Correcciones de fluidez y diseño glassmorphism",
+  "downloadUrl": "https://github.com/krailynd/la-casa-de-enfrente/releases/latest",
+  "forceUpdate": false
+}
